@@ -1,0 +1,16 @@
+{
+  "id": "questboard",
+  "title": "Quest_Board",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "description": ""
+}
